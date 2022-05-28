@@ -12,3 +12,8 @@ The dataset includes georeferenced occurences from [GBIF](https://www.gbif.org) 
 Model projections were based on the Maximum Entropy algorithm ([MaxEnt](https://biodiversityinformatics.amnh.org/open_source/maxent))
 
 ### Main Findings
+
+1. 
+![alt text](https://github.com/eknery/Melastom_endemism_Andes/tree/main/3_spp_richness/spp_richness_maps/spp_richness12.tiffraw=true)
+
+

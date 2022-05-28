@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2022-02-17 10:20:11
+[georeference]
+nrows=1992
+ncols=1824
+xmin=-109
+ymin=-56
+xmax=-33
+ymax=27
+projection=+proj=longlat +datum=WGS84 +no_defs
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=8.30440711975098
+maxvalue=682.539916992188
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=temperature_seasonality

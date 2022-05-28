@@ -1,7 +1,7 @@
 # Melastom_endemism_Andes
 
 ### Description:
-This project address the endemism of Melastomataceae species in the Northern Andes, South America. It includes:
+This project addresses the endemism of Melastomataceae species in the Northern Andes, South America. It includes:
 1. the identification of high endemism areas based on empirical records; 
 2. the inference of high endemism areas based on model projections;
 3. the estimate of sampling effort over the focal area; 
@@ -13,6 +13,6 @@ Model projections were based on the Maximum Entropy algorithm ([MaxEnt](https://
 
 ### Main Findings
 
-(https://github.com/eknery/Melastom_endemism_Andes/tree/main/3_spp_richness/spp_richness_maps/spp_richness12.jpg?raw=true)
+![](https://github.com/eknery/Melastom_endemism_Andes/blob/main/3_spp_richness/spp_richness_maps/spp_richness12.jpg)
 
 

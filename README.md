@@ -14,5 +14,7 @@ Model projections were based on the Maximum Entropy algorithm ([MaxEnt](https://
 ### Main Findings
 
 ![](https://github.com/eknery/Melastom_endemism_Andes/blob/main/3_spp_richness/spp_richness_maps/spp_richness12.jpg)
+  
 
 
+![](https://github.com/eknery/Melastom_endemism_Andes/blob/main/5_maxent_projections/andes_bin_projection_maps/andes_bin_projection12.jpg)

@@ -8,7 +8,7 @@ This project addresses the endemism of Melastomataceae species in the Northern A
 4. the collector curve over the focal area;<p>
 
 ### Methods:
-The dataset includes georeferenced occurences (~30.000) of Melastom species deposited in the [GBIF](https://www.gbif.org)repository by the NYBG. We utilized raster layers from [WorldClim](https://www.worldclim.org/) as features of Machine-learning algorithms. Model projections were based on the Maximum Entropy algorithm ([MaxEnt](https://biodiversityinformatics.amnh.org/open_source/maxent))
+The dataset includes georeferenced occurences (~30.000) of Melastom species deposited in the [GBIF](https://www.gbif.org) database by the NYBG. We utilized raster layers from [WorldClim](https://www.worldclim.org/) as features of Machine-learning algorithms. Model projections were based on the Maximum Entropy algorithm ([MaxEnt](https://biodiversityinformatics.amnh.org/open_source/maxent))
 
 ### Main Findings
 

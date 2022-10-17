@@ -13,12 +13,15 @@ The dataset includes georeferenced occurences (~30.000) of Melastom species depo
 ### Main Findings
 
 1) Empirical estimates of species richness over the Northern Andes
+  
 ![](https://github.com/eknery/Melastom_endemism_Andes/blob/main/3_spp_richness/spp_richness_maps/spp_richness12.jpg)
 
 2) Projected estimates of species richness over the Norther Andes, based on MaxEnt
+  
 ![](https://github.com/eknery/Melastom_endemism_Andes/blob/main/5_maxent_projections/andes_bin_projection_maps/andes_bin_projection12.jpg)
 
 3) Sampling effort over the Northern Andes
+  
 ![](https://github.com/eknery/Melastom_endemism_Andes/blob/main/7_sampling_effort/sampling_effort_maps/andes_record_counts12.jpg)
 
 4) Projectios of species richness per sampling effort. We still have a lot to discover!
